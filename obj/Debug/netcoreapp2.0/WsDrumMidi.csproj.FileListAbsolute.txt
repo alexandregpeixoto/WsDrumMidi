@@ -1,0 +1,10 @@
+C:\Users\p19309\Desktop\Dev\WsDrumMidi\bin\Debug\netcoreapp2.0\WsDrumMidi.deps.json
+C:\Users\p19309\Desktop\Dev\WsDrumMidi\bin\Debug\netcoreapp2.0\WsDrumMidi.runtimeconfig.json
+C:\Users\p19309\Desktop\Dev\WsDrumMidi\bin\Debug\netcoreapp2.0\WsDrumMidi.runtimeconfig.dev.json
+C:\Users\p19309\Desktop\Dev\WsDrumMidi\bin\Debug\netcoreapp2.0\WsDrumMidi.dll
+C:\Users\p19309\Desktop\Dev\WsDrumMidi\bin\Debug\netcoreapp2.0\WsDrumMidi.pdb
+C:\Users\p19309\Desktop\Dev\WsDrumMidi\obj\Debug\netcoreapp2.0\WsDrumMidi.csproj.CoreCompileInputs.cache
+C:\Users\p19309\Desktop\Dev\WsDrumMidi\obj\Debug\netcoreapp2.0\WsDrumMidi.AssemblyInfoInputs.cache
+C:\Users\p19309\Desktop\Dev\WsDrumMidi\obj\Debug\netcoreapp2.0\WsDrumMidi.AssemblyInfo.cs
+C:\Users\p19309\Desktop\Dev\WsDrumMidi\obj\Debug\netcoreapp2.0\WsDrumMidi.dll
+C:\Users\p19309\Desktop\Dev\WsDrumMidi\obj\Debug\netcoreapp2.0\WsDrumMidi.pdb
